@@ -347,8 +347,8 @@ body {
   
     .bannerParty {
         position: absolute;
-        top: 100px;
-        width: 100%;
+        top: 50px;
+        width: 50%;
         max-width: 100%;
         left: 50%;
         transform: translate(-50%, 0);
